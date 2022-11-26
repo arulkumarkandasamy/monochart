@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  monochart:
+  - apiVersion: v1
+    appVersion: 0.25.0
+    created: "2022-11-26T12:45:08.335463207Z"
+    description: A declarative helm chart for deploying common types of services on
+      Kubernetes
+    digest: 4b682beb71b56b456ef6066769dc277a04e5f0eb40d36b576f434baf57c9e84b
+    name: monochart
+    urls:
+    - https://github.com/arulkumarkandasamy/monochart/releases/download/monochart-0.25.0/monochart-0.25.0.tgz
+    version: 0.25.0
+generated: "2022-11-26T12:45:08.003963213Z"
